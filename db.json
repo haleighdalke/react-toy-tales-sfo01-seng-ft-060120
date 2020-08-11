@@ -47,6 +47,42 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Jessie",
+      "image": "https://toppng.com/uploads/preview/jessie-toy-story-11563070373cijpdfxxna.png",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Buttercup",
+      "image": "https://p7.hiclipart.com/preview/641/772/995/buzz-lightyear-buttercup-sheriff-woody-toy-story-story.jpg",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Trixie",
+      "image": "https://i.pinimg.com/originals/44/8e/bc/448ebc05cc75c38757361b49b5bea40c.jpg",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Mr. Pricklepants",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/1/16/Priclypants.png/revision/latest?cb=20181209011409",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "Stretch",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/8/83/Purple_Sreath.png/revision/latest/top-crop/width/360/height/360?cb=20190607005237",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "Mrs. Potatohead",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/a/a7/BEST_MRS.POTATO_HEAD_EVER.png/revision/latest/top-crop/width/360/height/360?cb=20191020180452",
+      "likes": 0,
+      "id": 16
     }
   ]
 }
